@@ -18,15 +18,15 @@ avatar: https://github.com/aseem96/aseem96.github.io/raw/master/images/profile.j
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:  araina@ncsu.edu
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: aseem96
+  instagram: aseem_raina
+  linkedin: https://www.linkedin.com/in/aseem-raina-7b467010a
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: aseemr47
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://aseem96.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
