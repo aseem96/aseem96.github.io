@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, World!
+I am first year Computer Science graduate student at North Carolina State University. I am a coding enthusiast, with a keen interest in
+analytics and Data Science.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In addition to programming and problem solving, I am a huge Coldplay fan and a foodie at heart. Being a former athlete myself, I like to follow athletics and various related events.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[araina@ncsu.edu](araina@ncsu.edu)
