@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hello, World!
 I am first year Computer Science graduate student at North Carolina State University. I am a coding enthusiast, with a keen interest in
 analytics and Data Science.
 
