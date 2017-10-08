@@ -7,7 +7,7 @@ Programming and Robotics Enthusiast, Aspiring Data Scientist, Coldplayer, Foodie
 
 I am first year Computer Science graduate student at North Carolina State University. I am a programming enthusiast, with a keen interest in analytics and Data Science.
 
-I have interned with IBM Software Labs as a part of the Cloud and Analytics team where I worked on development of products and platforms like IBM Bluemix, IBM Log Analysis, IBM IT Operations and Analytics and IBM Cognitive | IBM Watson.
+I have interned with IBM Software Labs as a part of the Cloud and Analytics team where I worked on development of products and platforms like IBM Bluemix, IBM Log Analysis, IBM IT Operations and Analytics and IBM Cognitive/Watson.
 
 Currently, I am actively seeking internship opportunties for Summer 2018.
 
