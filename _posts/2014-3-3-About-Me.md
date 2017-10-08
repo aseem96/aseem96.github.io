@@ -13,13 +13,15 @@ Currently, I am actively seeking internship opportunties for Summer 2018.
 
 **Languages and Skills**
 
-Well Versed	:	Java, Python
+**Well Versed**	:	Java, Python
 
-Familiar	:	C, C++, R, NodeJS, Embedded C
+**Familiar**	:	C, C++, R, NodeJS, Embedded C
 
-Databases	:	MySQL, NoSQL(MongoDB, Hive, Cassandra) 
+**Databases**	:	MySQL, NoSQL(MongoDB, Hive, Cassandra) 
 
-Frameworks	:	Git, Slack, Mocha, Chai, RESTful, JUnit, Selenium	
+**Frameworks**	:	Git, Slack, Mocha, Chai, RESTful, JUnit, Selenium	
+
+
 
 
 You can contact me on - [araina@ncsu.edu](mailto:araina@ncsu.edu) or [aseemraina1996@gmail.com](mailto:aseemraina1996@gmail.com)
