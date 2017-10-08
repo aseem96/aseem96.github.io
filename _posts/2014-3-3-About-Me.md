@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 
-Programming and Robotics Enthusiast | Aspiring Data Scientist | Coldplayer | Foodie
+Programming and Robotics Enthusiast, Aspiring Data Scientist, Coldplayer, Foodie
 
 I am first year Computer Science graduate student at North Carolina State University. I am a programming enthusiast, with a keen interest in analytics and Data Science.
 
