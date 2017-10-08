@@ -23,5 +23,4 @@ Currently, I am actively seeking internship opportunties for Summer 2018.
 
 
 
-
 You can contact me on - [araina@ncsu.edu](mailto:araina@ncsu.edu) or [aseemraina1996@gmail.com](mailto:aseemraina1996@gmail.com)
