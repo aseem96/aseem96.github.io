@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 
 I am first year Computer Science graduate student at North Carolina State University. I am a coding enthusiast, with a keen interest in
